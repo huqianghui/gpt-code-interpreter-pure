@@ -1,6 +1,6 @@
 # 基础镜像
 FROM amd64/python:3.10-slim
-ENV OPENAI_API_KEY=a65f52d60c744eb9b141d9939cd4c4b6
+ENV OPENAI_API_KEY=XXXXXX
 ENV OPENAI_API_TYPE=azure
 ENV OPENAI_API_BASE=https://openaidemo-hu.openai.azure.com/
 ENV OPENAI_API_VERSION=2023-05-15
